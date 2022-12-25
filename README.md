@@ -2,8 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Manuel-kl &label=Profile%20views&color=0e75b6&style=flat" alt="Manuel" /> </p>
 
 
-[link](https://twitter.com/Manuelkl_) {:target="_blank">}
-  <img align="left" alt="Manuel's Twitter" width="22px" src="https://img.icons8.com/color/50/111111/twitter-squared.png" />
+[<img align="left" alt="Manuel's Twitter" width="22px" src="https://img.icons8.com/color/50/111111/twitter-squared.png" />](https://twitter.com/Manuelkl_) {:target="_blank"}
 
 <a href="https://www.linkedin.com/in/elangat" target="_blank">
   <img align="left" alt="Manuel's Linkdein" width="22px" src="https://img.icons8.com/color/50/111111/linkedin.png" />
