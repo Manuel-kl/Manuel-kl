@@ -2,13 +2,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Manuel-kl &label=Profile%20views&color=0e75b6&style=flat" alt="Manuel" /> </p>
 
 
-<a href="https://twitter.com/Manuelkl_">
+<a href="https://twitter.com/Manuelkl_" target="_blank">
   <img align="left" alt="Manuel's Twitter" width="22px" src="https://img.icons8.com/color/50/111111/twitter-squared.png" />
 </a>
-<a href="https://www.linkedin.com/in/elangat">
+<a href="https://www.linkedin.com/in/elangat" target="_blank">
   <img align="left" alt="Manuel's Linkdein" width="22px" src="https://img.icons8.com/color/50/111111/linkedin.png" />
 </a>
-<a href="https://wa.me/+254743520021/?text=Hello%20Emmanuel...">
+<a href="https://wa.me/+254743520021/?text=Hello%20Emmanuel..." target="_blank">
   <img align="left" alt="Manuel's WhatsApp" width="22px" src="https://img.icons8.com/color/50/000000/whatsapp.png" />
 </a>
 
@@ -47,8 +47,8 @@
 
 ### Get in touch
 <p>
-  <a href="https://twitter.com/Manuelkl_"><img src="https://img.icons8.com/color/50/111111/twitter-squared.png" alt="twitter"/></a>
-  <a href="https://www.linkedin.com/in/elangat"><img src="https://img.icons8.com/color/50/111111/linkedin.png" alt="linkedin"/></a>
-  <a href="https://github.com/Manuel-kl"><img src="https://img.icons8.com/color/50/111111/github.png" alt="github"/></a>
-  <a href="https://wa.me/+254743520021/?text=Hello%20Emmanuel..."><img src="https://img.icons8.com/color/50/000000/whatsapp.png" alt="whatsapp"/></a>
+  <a href="https://twitter.com/Manuelkl_" target="_blank"><img src="https://img.icons8.com/color/50/111111/twitter-squared.png" alt="twitter"/></a>
+  <a href="https://www.linkedin.com/in/elangat" target="_blank"><img src="https://img.icons8.com/color/50/111111/linkedin.png" alt="linkedin"/></a>
+  <a href="https://github.com/Manuel-kl" target="_blank"><img src="https://img.icons8.com/color/50/111111/github.png" alt="github"/></a>
+  <a href="https://wa.me/+254743520021/?text=Hello%20Emmanuel..." target="_blank"><img src="https://img.icons8.com/color/50/000000/whatsapp.png" alt="whatsapp"/></a>
 </p>
