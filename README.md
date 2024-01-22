@@ -1,5 +1,5 @@
 #### Hey 👋 I'm Langat Emmanuel, a web developer with a passion for building scalable and user-friendly web solutions.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Manuel-kl &label=Profile%20views&color=0e75b6&style=flat" alt="Manuel" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Manuel-kl&label=Profile%20views&color=0e75b6&style=flat" alt="Manuel" /> </p>
 
 
 <a href="https://www.linkedin.com/in/elangat" target="_blank">
