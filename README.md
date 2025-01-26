@@ -30,7 +30,7 @@
 
   <tr>
       <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=Manuel-kl&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"/></td>
-    <td>[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=manuel-kl&theme=dark&hide_border=true)](https://git.io/streak-stats)</td>
+    <td><a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=manuel-kl&theme=dark&hide_border=true" alt="GitHub Streak" /></a></td>
   </tr>   
 </table>
 
