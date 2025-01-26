@@ -30,7 +30,7 @@
 
   <tr>
       <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=Manuel-kl&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"/></td>
-    <td><img width="400px" align="right" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Manuel-kl&theme=dark&hide_border=true&border_radius=0&short_numbers=true)](https://git.io/streak-stats)"/></td>
+    <td><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Manuel-kl&theme=dark&hide_border=true&border_radius=0&short_numbers=true" alt="GitHub Streak" /></a></td>
   </tr>   
 </table>
 
